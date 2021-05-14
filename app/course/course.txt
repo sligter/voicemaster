@@ -2,3 +2,4 @@
 QQ变音使用教程[https://cdn.jsdelivr.net/gh/sligter/voicemaster/app/course/qq.txt]
 钉钉变音使用教程[https://cdn.jsdelivr.net/gh/sligter/voicemaster/app/course/ding.txt]
 安卓11授权教程[https://cdn.jsdelivr.net/gh/sligter/voicemaster/app/course/shouquan.txt]
+K歌变音教程[https://cdn.jsdelivr.net/gh/sligter/voicemaster/app/course/klok.txt]
